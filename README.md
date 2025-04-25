@@ -85,7 +85,7 @@ Run the script:
 
 👨‍💻 Author
 
-    Your Name
+    Mueez
     GitHub
 
 📜 License
