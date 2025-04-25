@@ -50,10 +50,8 @@ New features were created to enhance model performance:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/iris-classification-rf.git
+   git clone https://github.com//Mueez-lab/Iris-Species-Detector-rf.git
    cd iris-classification-rf
-
-    Install required packages:
 
 pip install -r requirements.txt
 
